@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:bardstellar/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: rverduci@cloudbees.com
+  token: vault:bardstellar/pipelineUser:token
+  username: jx-app-bot
+prow:
+  hmacToken: vault:bardstellar/prow:hmacToken
