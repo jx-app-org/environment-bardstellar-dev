@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jx-app-org
+  repo: more-goldfish
+  url: https://github.com/jx-app-org/more-goldfish.git
+  version: ""
+  versionURL: ""
