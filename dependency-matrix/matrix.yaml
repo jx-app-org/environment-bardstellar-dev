@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jx-app-org
+  repo: skilled-ape
+  url: https://github.com/jx-app-org/skilled-ape.git
+  version: ""
+  versionURL: ""

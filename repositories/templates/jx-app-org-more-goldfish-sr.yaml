@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jx-app-org
+    provider: github
+    repository: more-goldfish
+  name: jx-app-org-more-goldfish
+spec:
+  description: Imported application for jx-app-org/more-goldfish
+  httpCloneURL: https://github.com/jx-app-org/more-goldfish.git
+  org: jx-app-org
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: more-goldfish
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jx-app-org/more-goldfish.git
