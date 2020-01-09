@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jx-app-org
+    provider: github
+    repository: sensible-skylark
+  name: jx-app-org-sensible-skylark
+spec:
+  description: Imported application for jx-app-org/sensible-skylark
+  httpCloneURL: https://github.com/jx-app-org/sensible-skylark.git
+  org: jx-app-org
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: sensible-skylark
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jx-app-org/sensible-skylark.git
