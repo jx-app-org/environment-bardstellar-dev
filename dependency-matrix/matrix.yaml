@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/jx-app-org/skilled-ape.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jx-app-org
+  repo: sensible-skylark
+  url: https://github.com/jx-app-org/sensible-skylark.git
+  version: ""
+  versionURL: ""
