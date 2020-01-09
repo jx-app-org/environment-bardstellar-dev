@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/jx-app-org/sensible-skylark.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jx-app-org
+  repo: enhanced-ferret
+  url: https://github.com/jx-app-org/enhanced-ferret.git
+  version: ""
+  versionURL: ""
