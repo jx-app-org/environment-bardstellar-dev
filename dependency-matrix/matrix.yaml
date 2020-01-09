@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/jx-app-org/enhanced-ferret.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jx-app-org
+  repo: known-cub
+  url: https://github.com/jx-app-org/known-cub.git
+  version: ""
+  versionURL: ""
