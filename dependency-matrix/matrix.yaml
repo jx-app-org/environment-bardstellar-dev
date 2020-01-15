@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/jx-app-org/known-cub.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jx-app-org
+  repo: glowing-hornet
+  url: https://github.com/jx-app-org/glowing-hornet.git
+  version: ""
+  versionURL: ""

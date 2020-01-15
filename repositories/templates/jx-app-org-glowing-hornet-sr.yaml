@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jx-app-org
+    provider: github
+    repository: glowing-hornet
+  name: jx-app-org-glowing-hornet
+spec:
+  description: Imported application for jx-app-org/glowing-hornet
+  httpCloneURL: https://github.com/jx-app-org/glowing-hornet.git
+  org: jx-app-org
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: glowing-hornet
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jx-app-org/glowing-hornet.git
