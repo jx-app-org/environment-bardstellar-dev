@@ -25,7 +25,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: jx-app-org
-  repo: glowing-hornet
-  url: https://github.com/jx-app-org/glowing-hornet.git
+  repo: patient-elk
+  url: https://github.com/jx-app-org/patient-elk.git
   version: ""
   versionURL: ""
