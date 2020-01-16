@@ -25,7 +25,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: jx-app-org
-  repo: distinct-lemur
-  url: https://github.com/jx-app-org/distinct-lemur.git
+  repo: singular-hyena
+  url: https://github.com/jx-app-org/singular-hyena.git
   version: ""
   versionURL: ""
