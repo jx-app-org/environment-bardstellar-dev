@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jx-app-org
+    provider: github
+    repository: top-bonefish
+  name: jx-app-org-top-bonefish
+spec:
+  description: Imported application for jx-app-org/top-bonefish
+  httpCloneURL: https://github.com/jx-app-org/top-bonefish.git
+  org: jx-app-org
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: top-bonefish
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jx-app-org/top-bonefish.git
