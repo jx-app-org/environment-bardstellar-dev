@@ -25,7 +25,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: jx-app-org
-  repo: right-baboon
-  url: https://github.com/jx-app-org/right-baboon.git
+  repo: mint-prawn
+  url: https://github.com/jx-app-org/mint-prawn.git
   version: ""
   versionURL: ""
