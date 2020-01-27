@@ -25,7 +25,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: jx-app-org
-  repo: special-haddock
-  url: https://github.com/jx-app-org/special-haddock.git
+  repo: top-badger
+  url: https://github.com/jx-app-org/top-badger.git
   version: ""
   versionURL: ""

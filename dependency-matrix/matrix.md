@@ -6,4 +6,4 @@ Dependency | Sources | Version | Mismatched versions
 [jx-app-org/sensible-skylark](https://github.com/jx-app-org/sensible-skylark.git) |  | []() | 
 [jx-app-org/enhanced-ferret](https://github.com/jx-app-org/enhanced-ferret.git) |  | []() | 
 [jx-app-org/known-cub](https://github.com/jx-app-org/known-cub.git) |  | []() | 
-[jx-app-org/special-haddock](https://github.com/jx-app-org/special-haddock.git) |  | []() | 
+[jx-app-org/top-badger](https://github.com/jx-app-org/top-badger.git) |  | []() | 
