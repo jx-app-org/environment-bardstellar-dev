@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/jx-app-org/known-cub.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jx-app-org
+  repo: great-turkey
+  url: https://github.com/jx-app-org/great-turkey.git
+  version: ""
+  versionURL: ""
