@@ -25,7 +25,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: jx-app-org
-  repo: precious-gator
-  url: https://github.com/jx-app-org/precious-gator.git
+  repo: special-haddock
+  url: https://github.com/jx-app-org/special-haddock.git
   version: ""
   versionURL: ""
